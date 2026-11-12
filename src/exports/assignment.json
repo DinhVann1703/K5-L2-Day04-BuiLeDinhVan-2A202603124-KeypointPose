@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603124",
+ "ten": "BuiLeDinhVan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "dinhvan",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000201702.jpg",
+  "000000211458.jpg",
+  "000000241837.jpg",
+  "000000314154.jpg",
+  "000000091637.jpg",
+  "000000461389.jpg",
+  "000000580257.jpg",
+  "000000043500.jpg",
+  "000000311300.jpg",
+  "000000150192.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_421231.jpg",
+  "face_85624.jpg",
+  "face_92028.jpg",
+  "face_105668.jpg",
+  "face_415073.jpg",
+  "face_143959.jpg",
+  "face_256814.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 8,
+   "job_id": 7,
+   "task_name": "persons-BuiLeDinhVan"
+  },
+  "faces": {
+   "task_id": 9,
+   "job_id": 8,
+   "task_name": "faces-BuiLeDinhVan"
+  }
+ }
+}
